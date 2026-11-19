@@ -28,13 +28,3 @@ Some games require PlayStation 4 firmware modules. Firmware files must be obtain
 ## Controls
 
 The emulator supports Xbox and DualShock controllers. Keyboard mappings and controller bindings can be configured in the emulator settings.
-
-## Original project and attribution
-
-This project is based on [shadPS4](https://github.com/shadps4-emu/shadPS4), created by the shadPS4 Emulator Project and its contributors. The upstream project, its contributors, and their work retain their original attribution.
-
-The original project documentation and contributor information are included in the source tree.
-
-## License
-
-This project is distributed under the GNU General Public License, version 2 or later. See [LICENSE](LICENSE) and the files in [LICENSES](LICENSES) for license details.
